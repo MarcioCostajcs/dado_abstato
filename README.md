@@ -1,4 +1,4 @@
-# dado_abstato
+
 # Criando conjuntos
 conjunto_A = {1, 2, 3}
 conjunto_B = {3, 4, 5}
